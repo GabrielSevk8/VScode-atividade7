@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&family=Roboto+Mono:wght@300;500&display=swap');
+
+div{
+    width: 50%;
+    margin: 0 auto ;
+    padding: 5px 10px 5px 10px ; 
+    background-color: #fff1e6;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#data{
+    color: #0077b6;
+}
