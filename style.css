@@ -9,6 +9,12 @@ div{
     font-family: 'Roboto Mono', monospace;
 }
 
-#data{
+.data1{
     color: #0077b6;
+    padding-top: 15px;
+}
+
+.data2{
+        color: #0077b6;
+        padding-top: 40px;
 }
